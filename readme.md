@@ -6,4 +6,4 @@ Font that discord uses.
 - In your Theme file, add `@import url(https://ghostmander.github.io/discordfont/DiscordFont.css);`
 - To use it, `font-family: "Discord"`
 
-|Customise sizes and width as you wish! Enjoy
+Customise sizes and width as you wish! Enjoy
